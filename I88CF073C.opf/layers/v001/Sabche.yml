@@ -1,0 +1,25 @@
+id: 8262684aad9244c6a143f8babbfd1128
+annotation_type: Sabche
+revision: '00001'
+annotations:
+  7d1b6e5010024771ab1f52aa722f910f:
+    span:
+      start: 156297
+      end: 156716
+  4d7edb6b9afa45f89aa257f2c664ea0c:
+    span:
+      start: 156718
+      end: 156772
+  9a1a50261da54b0bb72d8ffddb73467c:
+    span:
+      start: 162715
+      end: 162773
+  f1b3b7b205f14df8bc560c2b3ff5feb7:
+    span:
+      start: 186233
+      end: 186279
+local_ids:
+  7d1b6e5010024771ab1f52aa722f910f: 200000
+  4d7edb6b9afa45f89aa257f2c664ea0c: 200001
+  9a1a50261da54b0bb72d8ffddb73467c: 200002
+  f1b3b7b205f14df8bc560c2b3ff5feb7: 200003
