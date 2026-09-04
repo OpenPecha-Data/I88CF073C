@@ -1,20 +1,10 @@
-id: f687d986e39e4b319dae662384dd0614
+id: 03b16f08b58a474eba94872969a13ab7
 annotation_type: Author
 revision: '00001'
 annotations:
-  8562f8b83188488c9ad5b4a4fff754ab:
-    span:
-      start: 26
-      end: 40
-  6a4871607400466ba7afc3fec92c60e4:
-    span:
-      start: 42
-      end: 100
-  2e44559671e54474b46ee1decaa789f3:
+  d9719a536b44470185509a099070532e:
     span:
       start: 102
       end: 132
 local_ids:
-  8562f8b83188488c9ad5b4a4fff754ab: 200000
-  6a4871607400466ba7afc3fec92c60e4: 200001
-  2e44559671e54474b46ee1decaa789f3: 200002
+  d9719a536b44470185509a099070532e: 200000
