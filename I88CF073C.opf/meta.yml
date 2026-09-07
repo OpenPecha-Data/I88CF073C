@@ -2,15 +2,17 @@ id: I88CF073C
 initial_creation_type: ebook
 source_metadata:
   id: RDI-SS-04
-  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  title: དཔལ་ལྡན་མཁྱེན་བརྩེ་འོད་ཟེར་གྱི་རྣམ་ཐར་ཀུན་ཁྱབ་སྙན་པའི་བ་དན།
   author: མཛད་པ་པོ། ཀརྨ་བློ་གྲོས་འོད་ཟེར།
   authors: &id001
   - མཛད་པ་པོ། ཀརྨ་བློ་གྲོས་འོད་ཟེར།
   sku: RDI-SS-04
   cover: ShedraSeries_Book-4.jpg
   volume: {}
+  series: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  title_source: override
 ebook_metadata:
-  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  title: དཔལ་ལྡན་མཁྱེན་བརྩེ་འོད་ཟེར་གྱི་རྣམ་ཐར་ཀུན་ཁྱབ་སྙན་པའི་བ་དན།
   authors: *id001
   sku: RDI-SS-04
   cover: ShedraSeries_Book-4.jpg
